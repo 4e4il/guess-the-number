@@ -70,7 +70,7 @@ entry.place(x=155,y=100)
 
 
 
-photo = PhotoImage(file="1.files/cube.png")
+photo = PhotoImage(file="cube.png")
 button = Button(root,image=photo,  width=107, height=100, bd=1, command=one_click)
 button.place(x=145,y=230)
 
